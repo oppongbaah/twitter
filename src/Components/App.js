@@ -1,8 +1,8 @@
-import '../styles/App.css';
+import AppRoutes from './Routes';
 
 function App() {
-  return (
-    <h1> Twitter App </h1>
+  return(
+    <AppRoutes />  
   )
 }
 
